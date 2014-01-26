@@ -7,7 +7,7 @@ layout: overview
 	<h1>Leverage the power of<br />
 GitHub in your app</h1>
 	<p class="intro">Get started with one of our guides, or jump straight into the API documentation.</p>
-	<a href="/v3/" class="button">Browse the documentation</a>
+	<a href="/push/v1/" class="button">Browse the documentation</a>
 	<img src="/shared/images/labtocat.png" class="labtocat" />
 </div>
 
@@ -26,8 +26,8 @@ GitHub in your app</h1>
 		<li class="highlight-module">
 			<a href="http://github.com/contact"><span class="mega-icon octicon-mail-read"></span></a>
 			<h2><a href="http://github.com/contact">Support</a></h2>
-			<p>Are you stuck? Already tried our <a href="/v3/troubleshooting/">troubleshooting guide</a>? Talk to a supportocat.</p>
+			<p>Are you stuck? Already tried our <a href="/push/v1/troubleshooting/">troubleshooting guide</a>? Talk to a supportocat.</p>
 		</li>
-		
+
 	</ul>
 </div>
